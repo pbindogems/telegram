@@ -1,0 +1,8 @@
+UNTUK MENDAPATKAN ID CHANNEL/GRUP
+https://api.telegram.org/bot(TOKEN)/getUpdates
+
+TES KIRIM PESAN KE CHANNEL/GRUP
+https://api.telegram.org/bot(TOKEN)/sendMessage?chat_id=(ID CHANNEL/GRUP)&text=tes123
+
+
+
